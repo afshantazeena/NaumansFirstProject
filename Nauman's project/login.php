@@ -5,7 +5,7 @@
 <html lang="en-US">
 	<head>
 		<meta charset="UTF-8">
-		<title>website</title>
+		<title>Login</title>
 		<?php include ('includes/head.php');?>
 		<!-- PERSONAL STYLESHEET -->
 		<link rel="stylesheet" href="css/doctor_sign_up.css" class="css" /> 

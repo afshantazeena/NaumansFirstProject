@@ -6,7 +6,7 @@
 	<head>
 		<meta charset="UTF-8">
 		
-		<title>website</title>
+		<title>Home</title>
 		<?php include ('includes/head.php');?>
 		<!-- PERSONAL STYLESHEET -->
 		<link rel="stylesheet" href="css/home.css" class="css" /> 
